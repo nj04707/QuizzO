@@ -8,3 +8,4 @@ It is a general knowlege quiz App. Questions can only be answered using 'True' o
 
 ## This is how the App looks like: 
 
+![](https://github.com/nj04707/QuizzO/blob/master/AppSnippet.png)
